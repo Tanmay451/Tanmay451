@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Tanmay451/Tanmay451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+![github stats](https://github-readme-stats.vercel.app/api?username=Tanmay451&show_icons=true&theme=radical&hide=stars,contribs,issues&show=prs_merged,prs_merged_percentage)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay451&layout=compact&theme=nightowl&hide_progress=true)
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
